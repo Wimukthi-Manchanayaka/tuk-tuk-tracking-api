@@ -1,0 +1,24 @@
+# Tuk-Tuk Tracking API — Sri Lanka Police
+
+**Student ID:** [YOUR STUDENT ID HERE]
+
+A real-time three-wheeler (tuk-tuk) tracking and movement logging system for Sri Lanka law enforcement agencies.
+
+## Live API
+- **Base URL:** https://YOUR-APP-NAME.onrender.com/api/v1
+- **API Docs (Swagger):** https://YOUR-APP-NAME.onrender.com/api-docs
+
+## Default Login Credentials (for testing)
+| Role | Email | Password |
+|------|-------|----------|
+| HQ Admin | admin@police.lk | admin123456 |
+| Provincial | provincial1@police.lk | password123 |
+| Station | station1@police.lk | password123 |
+
+## Tech Stack
+- Node.js + Express.js
+- MongoDB Atlas
+- JWT Authentication
+- Swagger UI
+
+## Run Locally
