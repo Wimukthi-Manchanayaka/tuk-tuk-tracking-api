@@ -35,7 +35,7 @@ const swaggerOptions = {
     servers: [
       {
         url: process.env.NODE_ENV === 'production' 
-          ? 'https://YOUR-APP-NAME.onrender.com/api/v1' 
+          ? 'https://tuk-tuk-tracking-api-ked2.onrender.com/api/v1' 
           : 'http://localhost:5000/api/v1',
         description: process.env.NODE_ENV === 'production' ? 'Production Server' : 'Development Server'
       }

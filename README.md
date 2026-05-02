@@ -5,8 +5,8 @@
 A real-time three-wheeler (tuk-tuk) tracking and movement logging system for Sri Lanka law enforcement agencies.
 
 ## Live API
-- **Base URL:** https://YOUR-APP-NAME.onrender.com/api/v1
-- **API Docs (Swagger):** https://YOUR-APP-NAME.onrender.com/api-docs
+- **Base URL:** https://tuk-tuk-tracking-api-ked2.onrender.com/api/v1
+- **API Docs (Swagger):** https://tuk-tuk-tracking-api-ked2.onrender.com/api-docs
 
 ## Default Login Credentials (for testing)
 | Role | Email | Password |
